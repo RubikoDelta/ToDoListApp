@@ -1,0 +1,14 @@
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\bin\Debug\net9.0\ToDoApp.exe
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\bin\Debug\net9.0\ToDoApp.deps.json
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\bin\Debug\net9.0\ToDoApp.runtimeconfig.json
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\bin\Debug\net9.0\ToDoApp.dll
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\bin\Debug\net9.0\ToDoApp.pdb
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\obj\Debug\net9.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\obj\Debug\net9.0\ToDoApp.AssemblyInfoInputs.cache
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\obj\Debug\net9.0\ToDoApp.AssemblyInfo.cs
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\obj\Debug\net9.0\ToDoApp.csproj.CoreCompileInputs.cache
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\obj\Debug\net9.0\ToDoApp.dll
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\obj\Debug\net9.0\refint\ToDoApp.dll
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\obj\Debug\net9.0\ToDoApp.pdb
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\obj\Debug\net9.0\ToDoApp.genruntimeconfig.cache
+c:\Users\luisl\OneDrive\Documentos\Proyectos C#\To-Do List\ToDoApp\obj\Debug\net9.0\ref\ToDoApp.dll
